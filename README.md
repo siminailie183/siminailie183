@@ -1,6 +1,19 @@
-## Hi there 👋
+<section align="center">
 
-![hippo](https://giphy.com/gifs/kafPe6AUFg7DgNVh4O)
+# Welcome to my github!
+  
+![BlobCat](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXg4eGhzazVidjlsOXdscHp6YnM4a2FwYndkMDh2d3I0MmpqYzl1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BHjKQIE0HYUIwVOuua/giphy.gif)
+
+</section>
+
+## A few things about me
+
+- Systems engineering student
+- Web dev wannabe
+- Also game dev wannabe
+- A lot to learn 
+
+
 
 <!--
 **siminailie183/siminailie183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

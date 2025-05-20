@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![hippo](https://giphy.com/gifs/kafPe6AUFg7DgNVh4O)
+
 <!--
 **siminailie183/siminailie183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

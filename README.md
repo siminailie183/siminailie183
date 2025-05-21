@@ -9,9 +9,8 @@
 ## A few things about me
 
 - Systems engineering student
-- Web dev wannabe
-- Also game dev wannabe
-- A lot to learn 
+- Trying out as many things as possible
+- This is where I keep my projects (school/personal)
 
 
 
